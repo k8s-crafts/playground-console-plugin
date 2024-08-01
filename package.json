@@ -1,7 +1,7 @@
 {
   "name": "playground-console-plugin",
   "version": "0.1.0-dev",
-  "description": "A OpenShift console plugin for Kubernetes playground",
+  "description": "An OpenShift console plugin for Kubernetes playground",
   "private": true,
   "license": "Apache-2.0",
   "repository": {
@@ -72,7 +72,7 @@
     "name": "playground-console-plugin",
     "version": "0.1.0-dev",
     "displayName": "OpenShift Playground Plugin",
-    "description": "A OpenShift console plugin for Kubernetes playground.",
+    "description": "An OpenShift console plugin for Kubernetes playground.",
     "exposedModules": {
       "ExamplePage": "./components/ExamplePage"
     },
